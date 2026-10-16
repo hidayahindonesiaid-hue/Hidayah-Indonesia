@@ -1,0 +1,7 @@
+{
+  "name": "Hidayah Indonesia",
+  "description": "Website resmi Yayasan Hidayah Indonesia - Lembaga Dakwah, Pendidikan Al-Qur'an, Sosial Kemandirian Umat, dan Madrasah Qur'an Center.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
